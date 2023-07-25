@@ -22,3 +22,10 @@ test dev 10
 test dev 10
 test dev 10.5 -stg hotfix
 test dev 10.5 -stg hotfix
+test dev 11
+test dev 11
+test dev 11
+test dev 12
+test dev 12
+test dev 12
+test dev 12
